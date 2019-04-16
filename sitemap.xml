@@ -6,10 +6,4 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url> 
-    <url> 
-    <loc>https://map.baidu.com/poi/清晖园/@12608336.785,2596157.64,19z?uid=546f387ceea8a352902ca346&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&querytype=detailConInfo&da_src=shareurl</loc>
-    <lastmod>2019-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url> 
 </urlset>
